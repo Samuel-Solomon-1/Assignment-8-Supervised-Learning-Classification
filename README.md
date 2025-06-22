@@ -1,7 +1,7 @@
 # Supervised Learning Classification - Titanic Survival Prediction
 
 This repository contains the implementation and evaluation of supervised classification models applied to the [Titanic dataset](https://www.kaggle.com/c/titanic/data).  
-The project is part of **Assignment 8** in a Machine Learning course, focusing on end-to-end classification including preprocessing, modeling, evaluation, and deployment strategy.
+The project is **Assignment 8** of Introduction to Artificial Intelligence, focusing on end-to-end classification including preprocessing, modeling, evaluation, and deployment strategy.
 
 ---
 
@@ -111,6 +111,6 @@ Though this project focuses on experimentation, a production-ready deployment co
 
 * Dataset Source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/data)
 * Author: *Samuel Solomon*
-* Course: Machine Learning - Assignment 8 (2025)
+* Course: Introduction to Artificial Intelligence - Assignment 8 (2025)
 
 ---
