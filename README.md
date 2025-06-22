@@ -51,7 +51,7 @@ Each model is evaluated using:
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 | Metric     | Logistic Regression | Random Forest |
 |------------|---------------------|----------------|
