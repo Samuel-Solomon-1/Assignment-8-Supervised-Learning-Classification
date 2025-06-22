@@ -69,8 +69,8 @@ Each model is evaluated using:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/titanic-classification.git
-cd titanic-classification
+git clone https://github.com/Samuel-Solomon-1/Assignment-8-Supervised-Learning-Classification.git
+cd Assignment-8-Supervised-Learning-Classification
 ````
 
 2. (Optional) Create and activate a virtual environment:
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 4. Open the notebook:
 
 ```bash
-jupyter notebook Assignment_8_Titanic_Classification.ipynb
+jupyter notebook Assignment 8-Supervised Learning Classification.ipynb
 ```
 
 ---
